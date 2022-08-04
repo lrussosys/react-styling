@@ -1,0 +1,8 @@
+.card{
+    background-color: aquamarine;
+    width: 70%;
+    height: 200px;
+    border-radius: 10px;
+    /* margin: 0 auto; */
+    /* margin-top: 4rem; */
+}
