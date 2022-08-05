@@ -1,8 +1,17 @@
+.card-wrapper {
+    width: 100%;
+    padding: 3rem 2rem;
+}
+
 .card{
-    background-color: aquamarine;
-    width: 70%;
+    background-color: blue;
     height: 200px;
     border-radius: 10px;
-    /* margin: 0 auto; */
+    margin: 0 auto;
+    width: 50%;
     /* margin-top: 4rem; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
 }
